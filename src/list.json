@@ -1,0 +1,15 @@
+[{
+    "productId":"001",
+    "productName":"Samsung TV",
+    "productPrice":42000
+},
+{
+    "productId":"002",
+    "productName":"Moto G3",
+    "productPrice":10000
+},
+{
+    "productId":"003",
+    "productName":"Mi 3",
+    "productPrice":12000
+}]
